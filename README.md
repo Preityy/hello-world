@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hey!
+
+Preity here, I like programming
